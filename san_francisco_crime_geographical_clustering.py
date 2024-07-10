@@ -3,11 +3,7 @@
 
 # # SAN FRANCISCO CRIME GEOGRAPHICAL CLUSTERING PROJECT
 # 
-# In this lecture, we will perform geographic clustering using the San Francisco crime dataset on Kaggle. You can download the dataset from Kaggle: https://www.kaggle.com/c/sf-crime/data
-# Please download only train.csv.zip file and unzip the file to the same directory with this Python source code..
-# 
-# The operation steps for this project is as follows:
-# 
+
 # 1. Import libraries and prepare the dataset.
 # 2. Decide how many clusters we will have using Elbow Method (We will find K value).
 # 3. Build the model and perform the clustering operation using K-Means Machine Learning algorithm.
