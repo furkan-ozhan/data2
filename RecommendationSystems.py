@@ -5,7 +5,7 @@
 # 
 # Örnek uygulama: Movie Recommendation Software
 # 
-# Kursumuzun bu bölümünde Recommendation Systems konusu ile ilgili bir movie recommendation sistemi tasarlayacağız.
+# bölümünde Recommendation Systems konusu ile ilgili bir movie recommendation sistemi tasarlayacağız.
 # 
 # <IMG src="https://miro.medium.com/max/1132/1*N0-ikjPv4RUVvS-6KCgLPg.jpeg" width="500" height="500" >
 
