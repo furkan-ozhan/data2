@@ -3,9 +3,9 @@
 
 # # MULTIPLE LINEAR REGRESSION
 # 
-# Multiple Linear Regression'da birden fazla bağımsız(independent) değişkene karşılık bir bağımlı(dependent) dğeişken bulunur.
+# Multiple Linear Regression
 # 
-# Linear Regression veriler arasında var olan korelasyonu(ilişkiyi) kullanarak yeni gelecek verileri tahmin etme modelidir. Burada makine öğrenimi bize veriler arasındaki bu ilişkiyi belirlememize yardımcı olur ve bu sayede yeni verileri tahmin edebiliriz. 
+# Linear Regression
 
 # In[1]:
 
