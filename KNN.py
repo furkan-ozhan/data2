@@ -8,7 +8,7 @@
 # 
 # 
 # 
-# Bu dersimizde Machine Learning modellerinden KNN Modelini Python'da şeker hastalığı veri setini örneğiyle uygulamalı olarak öğreneceğiz.
+
 
 # In[1]:
 
@@ -36,7 +36,6 @@ saglikli_insanlar = data[data.Outcome == 0]
 
 
 # Şimdilik sadece gloucose'a bakarak örnek bir çizim yapalım:
-# Programımızın sonunda makine öğrenme modelimiz sadece glikoza değil tüm diğer verilere bakarak bir tahmin yapacaktır..
 plt.scatter(saglikli_insanlar.Age, saglikli_insanlar.Glucose, color="green", label="sağlıklı", alpha = 0.4)
 plt.scatter(seker_hastalari.Age, seker_hastalari.Glucose, color="red", label="diabet hastası", alpha = 0.4)
 plt.xlabel("Age")
