@@ -5,7 +5,6 @@
 # 
 # 
 # 
-# Bu dersimizde örnek olarak kullanacagimiz veri seti yapay ögrenme alaninin en popüler veri setlerinden “Iris” veri seti. Iris veri seti 3 Iris bitki türüne (Iris setosa, Iris virginica ve Iris versicolor) ait, her bir türden 50 örnek olmak üzere toplam 150 örnek sayisina sahip bir veri setidir. Her bir örnek için 4 özellik tanimlanmistir: taç yaprak uzunlugu, taç yaprak genisligi, çanak yaprak genisligi, çanak yaprak uzunluğu('sepal length','sepal width','petal length','petal width'). 
 # 
 # Veri setimizde, her bir bitki örnegi ayri bir gözlemi (örnegi) ifade ederken; bitki tür ismi bagimli(dependent) degisken, bitkilerin ölçülen 4 temel özelligi ise bagimsiz(independent) degiskenleri ifade eder.
 
