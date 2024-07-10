@@ -63,11 +63,11 @@ plt.legend()
 plt.show()
 
 
-# #### Tahmin için çok kötü bir doğru, demek ki neymiş: Bu veri seti için lineer regresyon uygulamak doğru değilmiş. Unutmayın veri setinize göre model seçeceksiniz arkadaşlar ! Öncelikle veri setinize çok iyi hakim olmalı ve bilmelisiniz !!!
+# #### Tahmin için çok kötü bii setinize çok iyi hakim olmalı
 # 
 # 
 
-# ### Bu veri seti için regression çeşitlerinden polynomial regression uygulanması gerektiğine kara verdik. Şimdi nasıl uyguladığımıza bakalım:
+# ### Bu veri seti için regression çeşitlerinden polynomial regression uygulanması gerektiğine kara verdik.
 
 # 
 # x değerimizi polinom yukardaki fonksiyonuna uyacak şekilde uyarlanmasını sağlıyoruz
@@ -110,7 +110,6 @@ plt.scatter(df['deneyim'],df['maas'])
 plt.show()
 
 
-# Gördüğünüz gibi kesinlikle uymuş diyebiliriz, polynomial regression doğru bir seçim.
 # Şimdi bir de N=3 veya 4 yapıp görelim polinom derecesini artırdığımızda daha güzel fit edecek mi acaba?
 
 # In[ ]:
