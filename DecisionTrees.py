@@ -3,7 +3,7 @@
 
 # # Decison Tree Classification
 # 
-# Bu kursumuzda Decision Trees ile Sınıflandırma Yapmayı Öğreneceğiz
+
 
 # İlk olarak verilerimizi yüklüyoruz ve kütüphaneleirmizi import ediyoruz.
 
